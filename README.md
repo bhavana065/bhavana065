@@ -47,12 +47,10 @@
 ### 🚀 **Live Projects**
 🔹 **Sustainable Food App** 🌱  
   - **Live Demo**: [Sustainable Food App](https://sustainable-food-app-deploy.vercel.app/)  
-  - **GitHub Repo**: [View Code](https://github.com/bhavana065/sustainable-food-app)  
   - 📌 A web app for meal planning, grocery tracking, and reducing food waste.  
 
 🔹 **Education App** 🎓  
-  - **Live Demo**: [Education App](https://education-app-mu-indol.vercel.app/)  
-  - **GitHub Repo**: [View Code](https://github.com/bhavana065/education-app)  
+  - **Live Demo**: [Education App](https://education-app-mu-indol.vercel.app/)   
   - 📌 A React-based platform for online learning and student engagement.  
 
 ---
