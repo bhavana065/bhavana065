@@ -13,6 +13,9 @@
 - 💡 **Exploring**: AI-powered applications, Web Development, Blockchain  
 - 🎯 **Goal**: To build user-friendly & impactful applications  
 - 💬 **Ask me about**: Frontend development, React.js, and UI Design  
+- 🔨 **I’m currently working on**:  
+  - 🚀 Improving my **UI/UX skills**  
+  - ⚡ Adding more features to my **Sustainable Food App**  
 - 📫 **Reach me at**: [bhavsm101@gmail.com](mailto:bhavsm101@gmail.com)  
 - 🔗 **Connect with me**:  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavana-mareedu-b42a772b6/)
@@ -41,17 +44,28 @@
 
 ---
 
+### 🚀 **Live Projects**
+🔹 **Sustainable Food App** 🌱  
+  - **Live Demo**: [Sustainable Food App](https://sustainable-food-app-deploy.vercel.app/)  
+  - **GitHub Repo**: [View Code](https://github.com/bhavana065/sustainable-food-app)  
+  - 📌 A web app for meal planning, grocery tracking, and reducing food waste.  
+
+🔹 **Education App** 🎓  
+  - **Live Demo**: [Education App](https://education-app-mu-indol.vercel.app/)  
+  - **GitHub Repo**: [View Code](https://github.com/bhavana065/education-app)  
+  - 📌 A React-based platform for online learning and student engagement.  
+
+---
+
 ### 🚀 **Featured Projects**
 <p align="left">
-  
-- **[Sustainable Food App](https://github.com/bhavana065/sustainable-food-app)**  
-  📌 A frontend web app for meal planning, grocery tracking, and reducing food waste.  
 
-- **[Education App](https://github.com/bhavana065/education-app)**  
-  📌 A React-based platform for online learning and student engagement.  
-
-- **[Blockchain-Based Drug Traceability](https://github.com/bhavana065/drug-traceability)** *(To be uploaded soon!)*  
+- **Blockchain-Based Drug Traceability** *(To be uploaded soon!)* 🔗  
   📌 A blockchain-powered application for drug verification and tracking.  
+
+- **Portfolio Website (Coming Soon! 🚀)**  
+  📌 A personal portfolio showcasing my skills and projects.  
+
 </p>
 
 ---
