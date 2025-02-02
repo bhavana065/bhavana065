@@ -53,6 +53,10 @@
   - **Live Demo**: [Education App](https://education-app-mu-indol.vercel.app/)   
   - 📌 A React-based platform for online learning and student engagement.  
 
+🔹 **Weather Dashboard App** 🌦️  
+  - **Live Demo**: [Weather Dashboard App](https://weather-app-one-phi-41.vercel.app/)  
+  - 📌 A real-time weather app that provides current and historical weather information for any location.
+
 ---
 
 ### 🚀 **Featured Projects**
@@ -80,3 +84,36 @@
 *I love building interactive and user-friendly web applications!* ✨  
 
 ---
+
+### 💡 **About Weather App**
+
+The **Weather Dashboard App** is a web application that allows users to:
+
+- Search for real-time weather data for any location worldwide.
+- Get historical weather data for any coordinates.
+- View data like temperature, humidity, wind speed, etc.
+- The app uses the **OpenWeather API** for real-time weather updates and historical data.
+
+Key features:
+- **Real-time weather updates**: Get instant information about the weather.
+- **Historical weather data**: Search weather data for any location for up to 45 years.
+- **User-friendly interface**: The app is designed with a responsive layout, making it easy to use on both desktop and mobile devices.
+
+The app was developed using **React.js** and styled with **Material-UI** for a clean and modern look.  
+
+Feel free to explore the app and get a glimpse of how the weather changes around the world! 🌍  
+
+---
+
+### 🌟 **About Me: Personal Life & Hobbies**
+
+I'm **Bhavana**, a final-year **CSE student** with a passion for **frontend development** and **blockchain technology**. I aim to combine my technical expertise with creativity to build user-friendly, impactful applications.
+
+**My Hobbies Include:**
+- 🎶 **Listening to Music**: Music is a big part of my life. I love exploring new genres and artists.  
+- 🍳 **Cooking**: I enjoy experimenting with different cuisines and recipes, trying new things in the kitchen.  
+- 🎨 **Drawing & Art**: Drawing helps me express my creativity. It’s one of my favorite ways to relax and unwind.  
+- 📚 **Reading**: I like reading books about technology, self-development, and even fiction for leisure.  
+- 🎮 **Gaming**: A casual gamer who loves to unwind by playing video games during my downtime.
+
+**In addition to my academic pursuits, I like to spend my time developing new skills, contributing to open-source projects, and collaborating on innovative ideas.**  
