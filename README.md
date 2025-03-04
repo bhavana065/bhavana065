@@ -69,9 +69,6 @@
 - **Blockchain-Based Drug Traceability** *(To be uploaded soon!)* 🔗  
   📌 A blockchain-powered application for drug verification and tracking.
 
-- **Portfolio Website (Coming Soon! 🚀)**  
-  📌 A personal portfolio showcasing my skills and projects.
-</p>
 
 ---
 
