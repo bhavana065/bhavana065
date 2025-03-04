@@ -1,12 +1,13 @@
-<h1 align="center">Hi, I'm Bhavana! 👋</h1>
-<h3 align="center">🚀 Final-year CSE student | Passionate about Frontend Development & Blockchain</h3>
+# ✨ **Hi, I'm Bhavana! 👋**  
+
+### 🚀 **Final-year CSE Student | Passionate About Frontend Development & Blockchain**
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   <img src="https://readme-typing-svg.herokuapp.com?color=F7C10D&center=true&vCenter=true&width=500&lines=Frontend+Developer;Blockchain+Enthusiast;Passionate+Learner;Open+to+Collaborations">
 </p>
 
----
+
 
 ### 👩‍💻 **About Me**  
 - 🌱 **Currently Learning**: React.js, JavaScript, UI/UX Design  
@@ -20,7 +21,6 @@
 - 🔗 **Connect with me**:  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavana-mareedu-b42a772b6/)
 
----
 
 ### 🛠 **Tech Stack**
 <p align="center">
@@ -45,29 +45,32 @@
 ---
 
 ### 🚀 **Live Projects**
+
 🔹 **Sustainable Food App** 🌱  
   - **Live Demo**: [Sustainable Food App](https://sustainable-food-app-deploy.vercel.app/)  
   - 📌 A web app for meal planning, grocery tracking, and reducing food waste.  
 
 🔹 **Education App** 🎓  
-  - **Live Demo**: [Education App](https://education-app-mu-indol.vercel.app/)   
+  - **Live Demo**: [Education App](https://education-app-mu-indol.vercel.app/)  
   - 📌 A React-based platform for online learning and student engagement.  
 
 🔹 **Weather Dashboard App** 🌦️  
   - **Live Demo**: [Weather Dashboard App](https://weather-app-one-phi-41.vercel.app/)  
   - 📌 A real-time weather app that provides current and historical weather information for any location.
 
+🔹 **Portfolio Website** 🌐  
+  - **Live Demo**: [Portfolio Website](https://vercel.com/bhavanas-projects-2dd807ae/portfolio-website)  
+  - 📌 My personal portfolio website showcasing my work and projects.  
+
 ---
 
 ### 🚀 **Featured Projects**
 <p align="left">
-
 - **Blockchain-Based Drug Traceability** *(To be uploaded soon!)* 🔗  
-  📌 A blockchain-powered application for drug verification and tracking.  
+  📌 A blockchain-powered application for drug verification and tracking.
 
 - **Portfolio Website (Coming Soon! 🚀)**  
-  📌 A personal portfolio showcasing my skills and projects.  
-
+  📌 A personal portfolio showcasing my skills and projects.
 </p>
 
 ---
@@ -116,4 +119,5 @@ I'm **Bhavana**, a final-year **CSE student** with a passion for **frontend deve
 - 📚 **Reading**: I like reading books about technology, self-development, and even fiction for leisure.  
 - 🎮 **Gaming**: A casual gamer who loves to unwind by playing video games during my downtime.
 
-**In addition to my academic pursuits, I like to spend my time developing new skills, contributing to open-source projects, and collaborating on innovative ideas.**  
+
+In addition to my academic pursuits, I like to spend my time developing new skills, contributing to open-source projects, and collaborating on innovative ideas.
