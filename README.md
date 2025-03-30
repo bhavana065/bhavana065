@@ -1,36 +1,29 @@
 # ✨ **Hi, I'm Bhavana! 👋**  
 
-### 🚀 **Final-year CSE Student | Passionate About Frontend Development & Blockchain**
+### 🚀 **Final-year CSE Student | Passionate About Python & Software Development**
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7C10D&center=true&vCenter=true&width=500&lines=Frontend+Developer;Blockchain+Enthusiast;Passionate+Learner;Open+to+Collaborations">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7C10D&center=true&vCenter=true&width=500&lines=Python+Developer;Software+Engineering;Passionate+Learner;Open+to+Collaborations">
 </p>
 
-
-
 ### 👩‍💻 **About Me**  
-- 🌱 **Currently Learning**: React.js, JavaScript, UI/UX Design  
-- 💡 **Exploring**: AI-powered applications, Web Development, Blockchain  
-- 🎯 **Goal**: To build user-friendly & impactful applications  
-- 💬 **Ask me about**: Frontend development, React.js, and UI Design  
+- 🌱 **Currently Learning**: Python, Data Structures, Machine Learning  
+- 💡 **Exploring**: AI-powered applications, Software Development, Automation  
+- 🎯 **Goal**: To build efficient and scalable applications  
+- 💬 **Ask me about**: Python development, Data Structures, and Algorithms  
 - 🔨 **I’m currently working on**:  
-  - 🚀 Improving my **UI/UX skills**  
-  - ⚡ Adding more features to my **Sustainable Food App**  
+  - 🚀 Improving my **Python** skills  
+  - ⚡ Building projects related to **AI and automation**  
 - 📫 **Reach me at**: [bhavsm101@gmail.com](mailto:bhavsm101@gmail.com)  
 - 🔗 **Connect with me**:  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavana-mareedu-b42a772b6/)
 
-
 ### 🛠 **Tech Stack**
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=ethereum&logoColor=white">
   <img src="https://img.shields.io/badge/DSA-blue?style=for-the-badge">
 </p>
 
@@ -52,7 +45,7 @@
 
 🔹 **Education App** 🎓  
   - **Live Demo**: [Education App](https://education-app-mu-indol.vercel.app/)  
-  - 📌 A React-based platform for online learning and student engagement.  
+  - 📌 A platform for online learning and student engagement built with React.  
 
 🔹 **Weather Dashboard App** 🌦️  
   - **Live Demo**: [Weather Dashboard App](https://weather-app-one-phi-41.vercel.app/)  
@@ -60,15 +53,15 @@
 
 🔹 **Portfolio Website** 🌐  
   - **Live Demo**: [Portfolio Website](https://vercel.com/bhavanas-projects-2dd807ae/portfolio-website)  
-  - 📌 My personal portfolio website showcasing my work and projects.  
+  - 📌 My personal portfolio website showcasing my work and projects.
 
 ---
 
 ### 🚀 **Featured Projects**
 <p align="left">
-- **Blockchain-Based Drug Traceability** *(To be uploaded soon!)* 🔗  
-  📌 A blockchain-powered application for drug verification and tracking.
-
+- **AI-powered Data Analysis Tool** *(To be uploaded soon!)* 🔗  
+  📌 A Python-based application for data analysis and insights generation.
+</p>
 
 ---
 
@@ -81,7 +74,7 @@
 ---
 
 ### ⭐ **Fun Fact**  
-*I love building interactive and user-friendly web applications!* ✨  
+*I love building efficient and scalable software applications!* ✨  
 
 ---
 
@@ -107,7 +100,7 @@ Feel free to explore the app and get a glimpse of how the weather changes around
 
 ### 🌟 **About Me: Personal Life & Hobbies**
 
-I'm **Bhavana**, a final-year **CSE student** with a passion for **frontend development** and **blockchain technology**. I aim to combine my technical expertise with creativity to build user-friendly, impactful applications.
+I'm **Bhavana**, a final-year **CSE student** with a passion for **Python programming** and **software development**. I aim to combine my technical expertise with creativity to build efficient, impactful software applications.
 
 **My Hobbies Include:**
 - 🎶 **Listening to Music**: Music is a big part of my life. I love exploring new genres and artists.  
@@ -115,6 +108,5 @@ I'm **Bhavana**, a final-year **CSE student** with a passion for **frontend deve
 - 🎨 **Drawing & Art**: Drawing helps me express my creativity. It’s one of my favorite ways to relax and unwind.  
 - 📚 **Reading**: I like reading books about technology, self-development, and even fiction for leisure.  
 - 🎮 **Gaming**: A casual gamer who loves to unwind by playing video games during my downtime.
-
 
 In addition to my academic pursuits, I like to spend my time developing new skills, contributing to open-source projects, and collaborating on innovative ideas.
