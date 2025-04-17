@@ -37,33 +37,32 @@
 
 ---
 
-### 🚀 **Live Projects**
+🚀 Live Projects
+🔹 Sustainable Food App 🌱
+📌 A web app for meal planning, grocery tracking, and reducing food waste.
+Live Demo: Sustainable Food App
 
-🔹 **Sustainable Food App** 🌱  
-  - **Live Demo**: [Sustainable Food App](https://sustainable-food-app-deploy.vercel.app/)  
-  - 📌 A web app for meal planning, grocery tracking, and reducing food waste.  
+🔹 Education App 🎓
+📌 A platform for online learning and student engagement built with React.
+Live Demo: Education App
 
-🔹 **Education App** 🎓  
-  - **Live Demo**: [Education App](https://education-app-mu-indol.vercel.app/)  
-  - 📌 A platform for online learning and student engagement built with React.  
+🔹 Weather Dashboard App 🌦️
+📌 A real-time weather app that provides current and historical weather information for any location.
+Live Demo: Weather Dashboard App
 
-🔹 **Weather Dashboard App** 🌦️  
-  - **Live Demo**: [Weather Dashboard App](https://weather-app-one-phi-41.vercel.app/)  
-  - 📌 A real-time weather app that provides current and historical weather information for any location.
+🔹 Portfolio Website 🌐
+📌 My personal portfolio website showcasing my work and projects.
+Live Demo: Portfolio Website
 
-🔹 **Portfolio Website** 🌐  
-  - **Live Demo**: [Portfolio Website](https://vercel.com/bhavanas-projects-2dd807ae/portfolio-website)  
-  - 📌 My personal portfolio website showcasing my work and projects.
+🔹 ADR Detection Project 💊
+📌 A Python-based solution to identify Adverse Drug Reactions (ADR) using machine learning and natural language processing (NLP) techniques.
+📌 The project leverages Reddit health-related data to extract and analyze user discussions about drug side effects, enabling early detection of ADR patterns based on public conversations.
 
----
+🔹 Blockchain-based Drug Traceability Project 🔗
+📌 A blockchain-powered system designed to track pharmaceuticals securely and transparently throughout the supply chain.
+📌 It ensures tamper-proof, traceable, and verifiable drug movement from manufacturers to end users, helping prevent counterfeit medicine and improving trust in drug safety.
 
-### 🚀 **Featured Projects**
-<p align="left">
-- **AI-powered Data Analysis Tool** *(To be uploaded soon!)* 🔗  
-  📌 A Python-based application for data analysis and insights generation.
-</p>
 
----
 
 ### 📌 **Other Interests**
 💡 Open-source contributions  
