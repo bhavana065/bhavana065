@@ -1,7 +1,3 @@
-Absolutely, Bhavana! Here's a clean, polished, and properly formatted version of your full portfolio-style README—perfect for GitHub or a personal portfolio site. I kept all the content you shared and just restructured it for better readability and consistency:
-
----
-
 # ✨ **Hi, I'm Bhavana! 👋**  
 
 ### 🚀 *Final-year CSE Student | Passionate About Python & Software Development*
